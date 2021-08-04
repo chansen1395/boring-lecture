@@ -1,0 +1,31 @@
+h2.speaker {
+  font-style: oblique;
+}
+
+p.intro {
+  font-variant: small-caps;
+  align-items: center;
+  text-align: center;
+}
+
+p.conclusion {
+  font-size: large;
+  color: blueviolet;
+}
+
+.intro {
+  font-variant: small-caps;
+  align-items: center;
+  text-align: center;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p.important {
+  font-style: oblique;
+  color: coral;
+}
