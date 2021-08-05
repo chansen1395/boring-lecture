@@ -32,3 +32,4 @@ _{Let me know if you run into any issues or have questions, ideas or concerns.  
 ## Contact Information
 
 _{(555) 555-5555}_
+_{}_
